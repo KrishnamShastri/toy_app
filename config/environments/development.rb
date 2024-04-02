@@ -69,5 +69,5 @@ Rails.application.configure do
   # config.action_cable.disable_request_forgery_protection = true
 
   # Allow connections to local server on cloud IDE.
-    config.hosts.clear
+  config.hosts.clear
 end
